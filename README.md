@@ -1,4 +1,4 @@
-# ![alt text](appicon@90px.png)Favorites Widgetizer
+# ![alt text](appicon@30px.png)Favorites Widgetizer
 
 Love the widgets added in iOS 14, and want to access your favorite contacts on the home screen? This is the app for you!
 
