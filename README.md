@@ -7,3 +7,5 @@ It's incredibly simple to use, and the widgets look great. Plus, it's totally fr
 ![alt text](screenshots/v1.0/arranged.png)
 
 Download [here](https://apps.apple.com/us/app/id1532064661), or if you want to submit issues/feature requests go to the Issues tab up top.
+
+<sup><sup>Protip: tap on the widget preview in settings to make it wiggle!</sup></sup>
